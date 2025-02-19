@@ -96,7 +96,7 @@ To run any of these projects, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/python-gui-projects.git
+   git clone https://github.com/themanishpndt/python-gui-projects.git
    cd python-gui-projects
    ```
 2. **Install dependencies (if any):**
@@ -121,8 +121,8 @@ To run any of these projects, follow these steps:
 
 ## 📩 Contact
 📧 **Manish Sharma**  
-💼 **[LinkedIn Profile](https://www.linkedin.com/in/your-profile)**  
-🐙 **[GitHub Profile](https://github.com/your-username)**  
+💼 **[LinkedIn Profile](https://www.linkedin.com/in/manish-sharma-52659a251/)**  
+🐙 **[GitHub Profile](https://github.com/themanishpndt/)**  
+📧 **Email:** manishsharma93155@gmail.com  
 
 📢 If you like these projects, don't forget to ⭐ **star** the repository! 😊✨
-
